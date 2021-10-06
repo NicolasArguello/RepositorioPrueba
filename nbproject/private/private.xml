@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/GestionBiblioteca/web/RegistrarEditoriales.jsp</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/GestionBiblioteca/src/java/controller/ControlLibros.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/GestionBiblioteca/src/java/dao/DaoEditoriales.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/GestionBiblioteca/src/java/controller/ControlEditorial.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/GestionBiblioteca/src/java/model/Editoriales.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/GestionBiblioteca/web/RegistrarCategoria.jsp</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/GestionBiblioteca/src/java/dao/DaoLibros.java</file>
+            <file>file:/C:/Users/home/Documents/NetBeansProjects/GestionBiblioteca/web/RegistrarLibro.jsp</file>
+        </group>
+    </open-files>
+</project-private>
